@@ -49,7 +49,7 @@ const getRandomEmployee = function (employeesArray) {
 
   const randomEmployee = employeesArray [randomIndex];
 
-  console.log(`random ${randomEmployee.firstName} ${randomEmployee.lastName} random`);
+  console.log(`Congradulations ${randomEmployee.firstName} ${randomEmployee.lastName}`);
 };
 
 /*
